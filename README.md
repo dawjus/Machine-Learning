@@ -2,3 +2,5 @@ Machine learning course at AGH in Matlab language. Each lab has a separate folde
 
 
 - [Lab 1](Lab%201/) Linear regression
+
+- [Lab 2](Lab%202/) Logistic regression
